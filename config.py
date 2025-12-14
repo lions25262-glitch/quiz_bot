@@ -1,7 +1,7 @@
 import os
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 # === TOKEN ===
-# BOT_TOKEN = "7529091727:AAEAyp04iMMb4i6W65BozW60LjVcLcRiG9k"
+
 
 # === Google Sheets config ===
 CREDENTIALS_FILE = "credentials.json"
@@ -14,3 +14,4 @@ MAKTABLAR = {
     "3-maktab": "3",
     "4-maktab": "4"
 }
+
